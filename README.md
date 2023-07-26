@@ -1,1 +1,1 @@
-# Just Pictures for NFT Profile
+# Just Picture for NFT Profile
