@@ -11,3 +11,4 @@
 - 0xsyifa1 (3).jpg
 - 0xsyifa1 (4).jpg
 - 0xsyifa1 (5).jpg
+- 0xsyifa2 (1).jpg
