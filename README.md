@@ -1,5 +1,4 @@
 # Just Picture for NFT Profiles
-
 - 0xsyifa (1).jpg
 - 0xsyifa (2).jpg
 - 0xsyifa (3).jpg
